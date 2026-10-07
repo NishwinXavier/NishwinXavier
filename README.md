@@ -196,36 +196,6 @@ class NishwinXavier:
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NishwinXavier&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=38BDF8&text_color=64748B" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NishwinXavier&theme=transparent&hide_border=true&ring=2563EB&fire=38BDF8&currStreakLabel=2563EB" height="165"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishwinXavier&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=64748B" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NishwinXavier&bg_color=ffffff00&color=2563EB&line=38BDF8&point=2563EB&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
 # 🧩 Core Skills
 
 <div align="center">
